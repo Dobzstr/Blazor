@@ -1,6 +1,6 @@
 using System.Security.Claims;
 
-namespace BlazorTemplate.Domain.Extensions
+namespace Blazor.Domain.Extensions
 {
     public static class ClaimsPrincipalExtensions
     {

@@ -1,15 +1,15 @@
-using BlazorTemplate.Application.Interfaces;
-using BlazorTemplate.Domain.Common;
-using BlazorTemplate.Domain.Constants;
-using BlazorTemplate.Domain.Entities;
-using BlazorTemplate.Domain.Extensions;
-using BlazorTemplate.Infrastructure.Data;
-using BlazorTemplate.Infrastructure.Identity;
+using Blazor.Application.Interfaces;
+using Blazor.Domain.Common;
+using Blazor.Domain.Constants;
+using Blazor.Domain.Entities;
+using Blazor.Domain.Extensions;
+using Blazor.Infrastructure.Data;
+using Blazor.Infrastructure.Identity;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Logging;
 
-namespace BlazorTemplate.Application.Services
+namespace Blazor.Application.Services
 {
     public class UserService : IUserService
     {

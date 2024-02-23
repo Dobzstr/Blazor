@@ -1,4 +1,4 @@
-namespace BlazorTemplate.Domain.Extensions
+namespace Blazor.Domain.Extensions
 {
     public static class EnumerableExtensions
     {

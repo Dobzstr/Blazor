@@ -1,4 +1,4 @@
-﻿namespace BlazorTemplate.Infrastructure.Services
+﻿namespace Blazor.Infrastructure.Services
 {
     public interface IEmailSender
     {

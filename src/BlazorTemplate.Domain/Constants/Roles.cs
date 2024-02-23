@@ -1,4 +1,4 @@
-namespace BlazorTemplate.Domain.Constants
+namespace Blazor.Domain.Constants
 {
     public static class Roles
     {

@@ -1,4 +1,4 @@
-namespace BlazorTemplate.Server.Extensions
+namespace Blazor.Server.Extensions
 {
     public static class HttpContextExtensions
     {

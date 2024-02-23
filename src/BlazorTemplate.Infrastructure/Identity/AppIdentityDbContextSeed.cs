@@ -1,9 +1,9 @@
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Logging;
-using BlazorTemplate.Domain.Constants;
+using Blazor.Domain.Constants;
 
-namespace BlazorTemplate.Infrastructure.Identity
+namespace Blazor.Infrastructure.Identity
 {
     public class AppIdentityDbContextSeed
     {

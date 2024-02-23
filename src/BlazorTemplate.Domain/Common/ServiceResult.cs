@@ -1,4 +1,4 @@
-namespace BlazorTemplate.Domain.Common
+namespace Blazor.Domain.Common
 {
     public class ServiceResult
     {

@@ -16,10 +16,10 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\BlazorTemplate.Application\BlazorTemplate.Application.csproj" />
-    <ProjectReference Include="..\BlazorTemplate.Domain\BlazorTemplate.Domain.csproj" />
-    <ProjectReference Include="..\BlazorTemplate.Infrastructure\BlazorTemplate.Infrastructure.csproj" />
-    <ProjectReference Include="..\BlazorTemplate.UserInterface\BlazorTemplate.UserInterface.csproj" />
+    <ProjectReference Include="..\Blazor.Application\Blazor.Application.csproj" />
+    <ProjectReference Include="..\Blazor.Domain\Blazor.Domain.csproj" />
+    <ProjectReference Include="..\Blazor.Infrastructure\Blazor.Infrastructure.csproj" />
+    <ProjectReference Include="..\Blazor.UserInterface\Blazor.UserInterface.csproj" />
   </ItemGroup>
 
 </Project>

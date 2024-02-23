@@ -1,12 +1,12 @@
 using MudBlazor;
 using Microsoft.AspNetCore.Components;
 using Microsoft.AspNetCore.Components.Authorization;
-using BlazorTemplate.Application.Interfaces;
-using BlazorTemplate.Domain.Extensions;
-using BlazorTemplate.Infrastructure.Identity;
-using BlazorTemplate.UserInterface.Components;
+using Blazor.Application.Interfaces;
+using Blazor.Domain.Extensions;
+using Blazor.Infrastructure.Identity;
+using Blazor.UserInterface.Components;
 
-namespace BlazorTemplate.UserInterface.Pages.UserManagement
+namespace Blazor.UserInterface.Pages.UserManagement
 {
     public class IndexBase : ComponentBase
     {

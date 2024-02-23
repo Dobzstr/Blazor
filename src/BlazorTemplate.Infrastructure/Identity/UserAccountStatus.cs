@@ -1,4 +1,4 @@
-namespace BlazorTemplate.Infrastructure.Identity
+namespace Blazor.Infrastructure.Identity
 {
     public enum UserAccountStatus
     {

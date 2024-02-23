@@ -1,8 +1,8 @@
 <Project Sdk="Microsoft.NET.Sdk">
 
   <ItemGroup>
-    <ProjectReference Include="..\BlazorTemplate.Infrastructure\BlazorTemplate.Infrastructure.csproj" />
-    <ProjectReference Include="..\BlazorTemplate.Domain\BlazorTemplate.Domain.csproj" />
+    <ProjectReference Include="..\Blazor.Infrastructure\Blazor.Infrastructure.csproj" />
+    <ProjectReference Include="..\Blazor.Domain\Blazor.Domain.csproj" />
   </ItemGroup>
 
   <PropertyGroup>

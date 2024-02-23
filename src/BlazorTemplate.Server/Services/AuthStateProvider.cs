@@ -1,6 +1,6 @@
-using BlazorTemplate.Application.Interfaces;
-using BlazorTemplate.Domain.Extensions;
-using BlazorTemplate.Infrastructure.Identity;
+using Blazor.Application.Interfaces;
+using Blazor.Domain.Extensions;
+using Blazor.Infrastructure.Identity;
 using Microsoft.AspNetCore.Components;
 using Microsoft.AspNetCore.Components.Authorization;
 using Microsoft.AspNetCore.Components.Server;
@@ -8,7 +8,7 @@ using Microsoft.AspNetCore.Identity;
 using Microsoft.Extensions.Options;
 using System.Security.Claims;
 
-namespace BlazorTemplate.Server.Services
+namespace Blazor.Server.Services
 {
     public class AuthStateProvider :
         RevalidatingServerAuthenticationStateProvider

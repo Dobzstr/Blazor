@@ -1,6 +1,6 @@
 using System.Security.Claims;
 
-namespace BlazorTemplate.Application.Interfaces
+namespace Blazor.Application.Interfaces
 {
     public interface IAuthenticationService
     {
